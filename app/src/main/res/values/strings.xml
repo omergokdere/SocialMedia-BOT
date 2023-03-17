@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Facebook Image Share Application</string> <!--uygulamanın adı-->
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1033021810119744</string>  <!--developer.facebook.com  hesap id-->
+</resources>
